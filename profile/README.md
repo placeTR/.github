@@ -1,4 +1,4 @@
-![r/place 2023 banner]([placeTR-txt.png](https://github.com/placeTR/.github/blob/main/profile/placeTR-txt.svg))
+![r/place 2023 banner](https://raw.githubusercontent.com/placeTR/.github/main/profile/placeTR-txt.svg)
 ## placeTR | r/Place Türkiye
 r/Place etkinliği için Türkiye kolunda kaynak oluşturmak amaçlı kurulmuş bir organizasyondur.  
 ![r/place 2023 bayrak](https://cdn.discordapp.com/attachments/1131954606344253501/1133045714092564560/TASARIM_FINAL.png)
